@@ -154,4 +154,4 @@ There are two different ways to deploy this application: Full Experience and Dem
 - [Hono - Fast, Lightweight, Web Framework for Cloudflare Workers](https://hono.dev/docs/getting-started/cloudflare-workers)
 - [Workers Smart Placement](https://developers.cloudflare.com/workers/configuration/smart-placement/)
 
-Test2
+Test3
